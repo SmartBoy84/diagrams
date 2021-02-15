@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T06:09:59.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="bNr0fYaGJcLzAFDh-tjb" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T06:12:05.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="x3LvSCQcwFGA8dWxUrTm" version="14.3.1" type="github">
   <diagram id="9T-KzMDTC1tGW73ubIN6" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -22,20 +22,33 @@
         <mxCell id="2jKX1c1ZjET9RqZbo7YF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2jKX1c1ZjET9RqZbo7YF-24" value="Raw material &lt;br&gt;payment detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="217" as="sourcePoint" />
+            <mxPoint x="1680" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2jKX1c1ZjET9RqZbo7YF-5" value="Lemonade stall system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="140" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2jKX1c1ZjET9RqZbo7YF-21" value="raw material &lt;br&gt;order detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.957;exitY=0.286;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="2jKX1c1ZjET9RqZbo7YF-5" target="2jKX1c1ZjET9RqZbo7YF-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1725" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2jKX1c1ZjET9RqZbo7YF-22" value="Confirm raw &lt;br&gt;material detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2jKX1c1ZjET9RqZbo7YF-6" target="2jKX1c1ZjET9RqZbo7YF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2jKX1c1ZjET9RqZbo7YF-6" value="Supplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="1680" y="199" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="2jKX1c1ZjET9RqZbo7YF-25" value="Wages &lt;br&gt;detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.343;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2jKX1c1ZjET9RqZbo7YF-7" target="2jKX1c1ZjET9RqZbo7YF-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2jKX1c1ZjET9RqZbo7YF-7" value="Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1465" y="330" width="90" height="40" as="geometry" />
+          <mxGeometry x="1465" y="360" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2jKX1c1ZjET9RqZbo7YF-15" value="Confirm order &lt;br&gt;detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2jKX1c1ZjET9RqZbo7YF-5" target="2jKX1c1ZjET9RqZbo7YF-11">
           <mxGeometry relative="1" as="geometry">
