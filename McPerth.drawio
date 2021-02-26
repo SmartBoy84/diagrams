@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T02:33:16.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.3" etag="Y6-ZEXtrRljCEJrdvue_" type="github"><diagram id="e3y8-2CaiE9CcOBF3IzC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-26T02:40:41.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="834CC2l4qwqETTRFkDc5" version="14.4.3" type="github">
+  <diagram id="e3y8-2CaiE9CcOBF3IzC" name="Page-1">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aU3Mkawmgp89ImR38Pph-7" value="Required ingredients &lt;br&gt;detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aU3Mkawmgp89ImR38Pph-1" target="aU3Mkawmgp89ImR38Pph-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-1" value="McPerth ordering system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-4" value="Order detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.038;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aU3Mkawmgp89ImR38Pph-2" target="aU3Mkawmgp89ImR38Pph-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-8" value="Payment detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.2;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aU3Mkawmgp89ImR38Pph-2" target="aU3Mkawmgp89ImR38Pph-1">
+          <mxGeometry x="0.1255" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-11" value="Order number&amp;nbsp;detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="aU3Mkawmgp89ImR38Pph-1" target="aU3Mkawmgp89ImR38Pph-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-13" value="Receipt detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.006;exitY=0.656;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="aU3Mkawmgp89ImR38Pph-1" target="aU3Mkawmgp89ImR38Pph-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-2" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-5" value="Stock delivery &lt;br&gt;detail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aU3Mkawmgp89ImR38Pph-3" target="aU3Mkawmgp89ImR38Pph-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aU3Mkawmgp89ImR38Pph-3" value="Supplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
